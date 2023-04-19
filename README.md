@@ -1,4 +1,6 @@
-# nodmongoDB(not functional can't put it together with react-blog)
+# nodmongoDB
+(not functional can't put it together with react-blog)
+
 React Blog is a web application that allows users to create, edit, and view blog posts. The application is built using React, Node.js, and MongoDB.
 
 Features
